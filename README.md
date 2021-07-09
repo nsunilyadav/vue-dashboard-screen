@@ -1,4 +1,5 @@
 # Dashboard Screen
+
 Sample code for dashboard screen.
 
 ## Project setup
@@ -45,13 +46,6 @@ src
 </ul>
 
 ## Files description
-
-
-        - Dashboard.component.vue
-        - DashboardChart.component.vue
-        - DashboardTable.component.vue
-        - Loader.component.vue
-        
 
 `src > components > Dashboard.component.vue` - Main component for dashboard that contains DashboardChart and DashboardTable components.
 
